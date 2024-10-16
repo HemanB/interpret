@@ -1,0 +1,3 @@
+add ab result 3
+add ab result -1
+sum_all result 37
